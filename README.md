@@ -19,4 +19,4 @@
   <a href = "mailto:eniojr100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnioJr18)](https://github.com/EnioJr18/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnioJr18&show_icons=true&theme=tokyonight)
