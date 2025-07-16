@@ -1,6 +1,6 @@
 ## Oláá, Eu Sou Enio Jr 👋 | Desenvolvedor Python e trabalho com Front-End
 
-- 🌱 Estou atualmente estudando Django, SQL, Pyteste futuramnete APIs.
+- 🌱 Estou atualmente estudando Django, SQL, Pytest futuramnete APIs.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Enio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
