@@ -1,13 +1,14 @@
-## Oláá, Eu Sou Enio Jr 👋 | Desenvolvedor Python e trabalho com Front-End
+## Oláá, Eu Sou Enio Jr 👋 | Desenvolvedor Python
 
-- 🌱 Estou atualmente estudando Django, SQL, Pytest futuramnete APIs.
+- 🌱 Estou atualmente estudando Flask, SQL, Pytest futuramnete APIs.
+- 🌱 Tenho também um bom conhecimento em Html e CSS.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Enio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Enio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Enio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Enio-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img  align="center" alt="Enio-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img  align="center" alt="Enio-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
 </div>  
 
 
