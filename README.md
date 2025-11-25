@@ -1,6 +1,7 @@
-## Oláá, Eu Sou Enio Jr 👋 | Desenvolvedor Python
+## Oláá, Eu Sou Enio Jr 👋 | Desenvolvedor Backend
 
-- 🌱 Estou atualmente estudando Flask, SQL, Pytest futuramnete APIs.
+- 🌱 Estou Trabalho com Python, Flask, SQL(Postgresql e MySql), APis e Pytest.
+- 🌱 Atualmente melhorando meus conhecimento, e estudando Django.
 - 🌱 Tenho também um bom conhecimento em Html e CSS.
 
 <div style="display: inline_block"><br>
