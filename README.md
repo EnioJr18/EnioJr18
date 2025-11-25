@@ -1,6 +1,6 @@
 ## Oláá, Eu Sou Enio Jr 👋 | Desenvolvedor Backend
 
-- 🌱 Estou Trabalho com Python, Flask, SQL(Postgresql e MySql), APis e Pytest.
+- 🌱 Estou Trabalho com Python, Flask, SQL(Postgresql e MySql), APis, Pytest e Automações.
 - 🌱 Atualmente melhorando meus conhecimento, e estudando Django.
 - 🌱 Tenho também um bom conhecimento em Html e CSS.
 
@@ -21,4 +21,4 @@
   <a href = "mailto:eniojr100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnioJr18&show_icons=true&theme=tokyonight)
+
