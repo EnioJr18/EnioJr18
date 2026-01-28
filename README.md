@@ -2,7 +2,7 @@
 
 ### **`Desenvolvedor Backend`**
 
-Me chamo Enio Eduardo Junior, tenho 20 anos.
+##### Olá, me chamo Enio Eduardo Junior, tenho 20 anos.
 - 🌱 Trabalho com Python, Flask, Django, SQL(Postgresql e MySql), APis, Pytest e Automações.
 - 🌱 Atualmente melhorando meus conhecimento, e estudando Django.
 - 🌱 Tenho também um bom conhecimento em Html e CSS.
@@ -40,6 +40,7 @@ Me chamo Enio Eduardo Junior, tenho 20 anos.
   />
 
 </p> 
+<br>
 
 ## 📧 Entre em Contato: 
 <div>
